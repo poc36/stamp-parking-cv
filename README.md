@@ -9,6 +9,14 @@ A comprehensive Computer Vision (CV) system for monitoring parking lot occupancy
 
 This project implements a scalable, multi-camera pipeline that determines the real-time occupancy of parking spots using both Deep Learning (YOLOv8) and traditional Feature-Based computer vision techniques.
 
+### 🖥️ Interactive Web GUI
+
+![Web GUI - Multi-Camera View](results/gui_screenshot_1.png)
+*Interactive web dashboard displaying real-time aggregated multi-camera coverage, camera work zones, and color-coded statuses (Test 1).*
+
+![Web GUI - High Occupancy](results/gui_screenshot_2.png)
+*Test 3 scenario (90% occupancy) showing deep details for each spot, including the required 0-100% confidence score and detection method.*
+
 ## ✨ Key Features
 
 - **Scalable Architecture**: Designed to handle 100+ parking spots simultaneously.
