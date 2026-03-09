@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>СТАМП CV — Мониторинг парковки</title>
+    <meta name="description" content="Система мониторинга занятости парковочных мест на основе Computer Vision">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-left">
+            <div class="logo">
+                <span class="logo-icon">🅿️</span>
+                <div class="logo-text">
+                    <h1>СТАМП CV</h1>
+                    <span class="logo-subtitle">Мониторинг парковки</span>
+                </div>
+            </div>
+        </div>
+        <div class="header-center">
+            <div class="status-indicator" id="statusIndicator">
+                <span class="status-dot"></span>
+                <span class="status-text">Подключено</span>
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="header-stat">
+                <span class="stat-label">Камер</span>
+                <span class="stat-value" id="cameraCount">—</span>
+            </div>
+            <div class="header-stat">
+                <span class="stat-label">Мест</span>
+                <span class="stat-value" id="totalSpots">—</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <!-- Control Panel -->
+        <aside class="sidebar" id="sidebar">
+            <div class="panel">
+                <h3 class="panel-title">⚙️ Управление</h3>
+                <div class="control-group">
+                    <label>Тест</label>
+                    <select id="testSelect">
+                        <option value="1">Тест 1 — 55% (обычная)</option>
+                        <option value="2">Тест 2 — 15% (утро)</option>
+                        <option value="3">Тест 3 — 90% (час пик)</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>Камера</label>
+                    <select id="cameraSelect">
+                        <option value="multi">Все камеры (агрегация)</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>Режим</label>
+                    <select id="modeSelect">
+                        <option value="feature">Feature-based</option>
+                        <option value="hybrid">Hybrid (YOLO + Feature)</option>
+                        <option value="yolo">YOLO v8</option>
+                    </select>
+                </div>
+                <button class="btn-primary" id="btnRunPipeline" onclick="runPipeline()">
+                    ▶ Запустить анализ
+                </button>
+                <button class="btn-secondary" onclick="loadResults()">
+                    🔄 Обновить данные
+                </button>
+            </div>
+
+            <!-- Statistics Panel -->
+            <div class="panel stats-panel">
+                <h3 class="panel-title">📊 Статистика</h3>
+                <div class="stats-grid">
+                    <div class="stat-card stat-total">
+                        <div class="stat-number" id="statTotal">—</div>
+                        <div class="stat-desc">Всего мест</div>
+                    </div>
+                    <div class="stat-card stat-free">
+                        <div class="stat-number" id="statFree">—</div>
+                        <div class="stat-desc">Свободно</div>
+                    </div>
+                    <div class="stat-card stat-occupied">
+                        <div class="stat-number" id="statOccupied">—</div>
+                        <div class="stat-desc">Занято</div>
+                    </div>
+                    <div class="stat-card stat-rate">
+                        <div class="stat-number" id="statRate">—</div>
+                        <div class="stat-desc">Занятость</div>
+                    </div>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="occupancyBar" style="width: 0%"></div>
+                </div>
+            </div>
+
+            <!-- Legend -->
+            <div class="panel">
+                <h3 class="panel-title">🎨 Легенда</h3>
+                <div class="legend">
+                    <div class="legend-item">
+                        <span class="legend-dot" style="background: #00c853;"></span>
+                        Свободно (0–30%)
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-dot" style="background: #ffc107;"></span>
+                        Неуверенно (30–70%)
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-dot" style="background: #ff1744;"></span>
+                        Занято (70–100%)
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-dot" style="background: #555;"></span>
+                        Вне зоны покрытия
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Map Area -->
+        <section class="map-area">
+            <div class="map-header">
+                <h2>Карта парковки</h2>
+                <div class="map-controls">
+                    <button class="map-btn" onclick="resetView()" title="Сброс зума">🔍</button>
+                    <button class="map-btn" onclick="toggleCameraZones()" title="Зоны камер"
+                        id="btnCamZones">📷</button>
+                    <button class="map-btn" onclick="toggleSpotIds()" title="ID мест" id="btnSpotIds">🔢</button>
+                </div>
+            </div>
+            <div class="canvas-container" id="canvasContainer">
+                <canvas id="parkingCanvas"></canvas>
+            </div>
+            <!-- Spot tooltip -->
+            <div class="tooltip" id="tooltip" style="display: none;"></div>
+        </section>
+
+        <!-- Right info panel -->
+        <aside class="right-panel" id="rightPanel">
+            <div class="panel">
+                <h3 class="panel-title">📋 Детали мест</h3>
+                <div class="spot-filter">
+                    <input type="text" id="spotSearch" placeholder="Поиск по ID..." oninput="filterSpots()">
+                    <select id="spotFilter" onchange="filterSpots()">
+                        <option value="all">Все</option>
+                        <option value="occupied">Занятые</option>
+                        <option value="free">Свободные</option>
+                        <option value="no_coverage">Без покрытия</option>
+                    </select>
+                </div>
+                <div class="spots-list" id="spotsList">
+                    <div class="spots-placeholder">Загрузите данные...</div>
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

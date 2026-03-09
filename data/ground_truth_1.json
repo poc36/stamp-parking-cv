@@ -1,0 +1,2152 @@
+{
+  "1": {
+    "description": "55% занятость (обычная загрузка)",
+    "occupied_count": 110,
+    "total_spots": 200,
+    "occupancy_rate": 55.0,
+    "occupied_ids": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      18,
+      19,
+      20,
+      22,
+      24,
+      27,
+      28,
+      30,
+      31,
+      32,
+      35,
+      38,
+      39,
+      41,
+      43,
+      44,
+      46,
+      49,
+      50,
+      51,
+      53,
+      54,
+      55,
+      57,
+      58,
+      60,
+      61,
+      62,
+      63,
+      64,
+      67,
+      70,
+      71,
+      73,
+      74,
+      75,
+      80,
+      82,
+      86,
+      89,
+      90,
+      91,
+      99,
+      102,
+      103,
+      106,
+      107,
+      109,
+      110,
+      111,
+      113,
+      114,
+      115,
+      116,
+      117,
+      119,
+      122,
+      125,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      148,
+      149,
+      150,
+      151,
+      153,
+      156,
+      157,
+      158,
+      159,
+      161,
+      162,
+      163,
+      167,
+      168,
+      169,
+      170,
+      172,
+      173,
+      174,
+      175,
+      176,
+      179,
+      189,
+      190,
+      196,
+      199,
+      200
+    ],
+    "spots": {
+      "1": {
+        "occupied": true
+      },
+      "2": {
+        "occupied": true
+      },
+      "3": {
+        "occupied": true
+      },
+      "4": {
+        "occupied": false
+      },
+      "5": {
+        "occupied": false
+      },
+      "6": {
+        "occupied": false
+      },
+      "7": {
+        "occupied": true
+      },
+      "8": {
+        "occupied": true
+      },
+      "9": {
+        "occupied": true
+      },
+      "10": {
+        "occupied": false
+      },
+      "11": {
+        "occupied": true
+      },
+      "12": {
+        "occupied": true
+      },
+      "13": {
+        "occupied": true
+      },
+      "14": {
+        "occupied": false
+      },
+      "15": {
+        "occupied": false
+      },
+      "16": {
+        "occupied": false
+      },
+      "17": {
+        "occupied": false
+      },
+      "18": {
+        "occupied": true
+      },
+      "19": {
+        "occupied": true
+      },
+      "20": {
+        "occupied": true
+      },
+      "21": {
+        "occupied": false
+      },
+      "22": {
+        "occupied": true
+      },
+      "23": {
+        "occupied": false
+      },
+      "24": {
+        "occupied": true
+      },
+      "25": {
+        "occupied": false
+      },
+      "26": {
+        "occupied": false
+      },
+      "27": {
+        "occupied": true
+      },
+      "28": {
+        "occupied": true
+      },
+      "29": {
+        "occupied": false
+      },
+      "30": {
+        "occupied": true
+      },
+      "31": {
+        "occupied": true
+      },
+      "32": {
+        "occupied": true
+      },
+      "33": {
+        "occupied": false
+      },
+      "34": {
+        "occupied": false
+      },
+      "35": {
+        "occupied": true
+      },
+      "36": {
+        "occupied": false
+      },
+      "37": {
+        "occupied": false
+      },
+      "38": {
+        "occupied": true
+      },
+      "39": {
+        "occupied": true
+      },
+      "40": {
+        "occupied": false
+      },
+      "41": {
+        "occupied": true
+      },
+      "42": {
+        "occupied": false
+      },
+      "43": {
+        "occupied": true
+      },
+      "44": {
+        "occupied": true
+      },
+      "45": {
+        "occupied": false
+      },
+      "46": {
+        "occupied": true
+      },
+      "47": {
+        "occupied": false
+      },
+      "48": {
+        "occupied": false
+      },
+      "49": {
+        "occupied": true
+      },
+      "50": {
+        "occupied": true
+      },
+      "51": {
+        "occupied": true
+      },
+      "52": {
+        "occupied": false
+      },
+      "53": {
+        "occupied": true
+      },
+      "54": {
+        "occupied": true
+      },
+      "55": {
+        "occupied": true
+      },
+      "56": {
+        "occupied": false
+      },
+      "57": {
+        "occupied": true
+      },
+      "58": {
+        "occupied": true
+      },
+      "59": {
+        "occupied": false
+      },
+      "60": {
+        "occupied": true
+      },
+      "61": {
+        "occupied": true
+      },
+      "62": {
+        "occupied": true
+      },
+      "63": {
+        "occupied": true
+      },
+      "64": {
+        "occupied": true
+      },
+      "65": {
+        "occupied": false
+      },
+      "66": {
+        "occupied": false
+      },
+      "67": {
+        "occupied": true
+      },
+      "68": {
+        "occupied": false
+      },
+      "69": {
+        "occupied": false
+      },
+      "70": {
+        "occupied": true
+      },
+      "71": {
+        "occupied": true
+      },
+      "72": {
+        "occupied": false
+      },
+      "73": {
+        "occupied": true
+      },
+      "74": {
+        "occupied": true
+      },
+      "75": {
+        "occupied": true
+      },
+      "76": {
+        "occupied": false
+      },
+      "77": {
+        "occupied": false
+      },
+      "78": {
+        "occupied": false
+      },
+      "79": {
+        "occupied": false
+      },
+      "80": {
+        "occupied": true
+      },
+      "81": {
+        "occupied": false
+      },
+      "82": {
+        "occupied": true
+      },
+      "83": {
+        "occupied": false
+      },
+      "84": {
+        "occupied": false
+      },
+      "85": {
+        "occupied": false
+      },
+      "86": {
+        "occupied": true
+      },
+      "87": {
+        "occupied": false
+      },
+      "88": {
+        "occupied": false
+      },
+      "89": {
+        "occupied": true
+      },
+      "90": {
+        "occupied": true
+      },
+      "91": {
+        "occupied": true
+      },
+      "92": {
+        "occupied": false
+      },
+      "93": {
+        "occupied": false
+      },
+      "94": {
+        "occupied": false
+      },
+      "95": {
+        "occupied": false
+      },
+      "96": {
+        "occupied": false
+      },
+      "97": {
+        "occupied": false
+      },
+      "98": {
+        "occupied": false
+      },
+      "99": {
+        "occupied": true
+      },
+      "100": {
+        "occupied": false
+      },
+      "101": {
+        "occupied": false
+      },
+      "102": {
+        "occupied": true
+      },
+      "103": {
+        "occupied": true
+      },
+      "104": {
+        "occupied": false
+      },
+      "105": {
+        "occupied": false
+      },
+      "106": {
+        "occupied": true
+      },
+      "107": {
+        "occupied": true
+      },
+      "108": {
+        "occupied": false
+      },
+      "109": {
+        "occupied": true
+      },
+      "110": {
+        "occupied": true
+      },
+      "111": {
+        "occupied": true
+      },
+      "112": {
+        "occupied": false
+      },
+      "113": {
+        "occupied": true
+      },
+      "114": {
+        "occupied": true
+      },
+      "115": {
+        "occupied": true
+      },
+      "116": {
+        "occupied": true
+      },
+      "117": {
+        "occupied": true
+      },
+      "118": {
+        "occupied": false
+      },
+      "119": {
+        "occupied": true
+      },
+      "120": {
+        "occupied": false
+      },
+      "121": {
+        "occupied": false
+      },
+      "122": {
+        "occupied": true
+      },
+      "123": {
+        "occupied": false
+      },
+      "124": {
+        "occupied": false
+      },
+      "125": {
+        "occupied": true
+      },
+      "126": {
+        "occupied": false
+      },
+      "127": {
+        "occupied": true
+      },
+      "128": {
+        "occupied": true
+      },
+      "129": {
+        "occupied": true
+      },
+      "130": {
+        "occupied": true
+      },
+      "131": {
+        "occupied": true
+      },
+      "132": {
+        "occupied": true
+      },
+      "133": {
+        "occupied": true
+      },
+      "134": {
+        "occupied": true
+      },
+      "135": {
+        "occupied": true
+      },
+      "136": {
+        "occupied": true
+      },
+      "137": {
+        "occupied": false
+      },
+      "138": {
+        "occupied": false
+      },
+      "139": {
+        "occupied": true
+      },
+      "140": {
+        "occupied": true
+      },
+      "141": {
+        "occupied": true
+      },
+      "142": {
+        "occupied": true
+      },
+      "143": {
+        "occupied": true
+      },
+      "144": {
+        "occupied": true
+      },
+      "145": {
+        "occupied": false
+      },
+      "146": {
+        "occupied": false
+      },
+      "147": {
+        "occupied": false
+      },
+      "148": {
+        "occupied": true
+      },
+      "149": {
+        "occupied": true
+      },
+      "150": {
+        "occupied": true
+      },
+      "151": {
+        "occupied": true
+      },
+      "152": {
+        "occupied": false
+      },
+      "153": {
+        "occupied": true
+      },
+      "154": {
+        "occupied": false
+      },
+      "155": {
+        "occupied": false
+      },
+      "156": {
+        "occupied": true
+      },
+      "157": {
+        "occupied": true
+      },
+      "158": {
+        "occupied": true
+      },
+      "159": {
+        "occupied": true
+      },
+      "160": {
+        "occupied": false
+      },
+      "161": {
+        "occupied": true
+      },
+      "162": {
+        "occupied": true
+      },
+      "163": {
+        "occupied": true
+      },
+      "164": {
+        "occupied": false
+      },
+      "165": {
+        "occupied": false
+      },
+      "166": {
+        "occupied": false
+      },
+      "167": {
+        "occupied": true
+      },
+      "168": {
+        "occupied": true
+      },
+      "169": {
+        "occupied": true
+      },
+      "170": {
+        "occupied": true
+      },
+      "171": {
+        "occupied": false
+      },
+      "172": {
+        "occupied": true
+      },
+      "173": {
+        "occupied": true
+      },
+      "174": {
+        "occupied": true
+      },
+      "175": {
+        "occupied": true
+      },
+      "176": {
+        "occupied": true
+      },
+      "177": {
+        "occupied": false
+      },
+      "178": {
+        "occupied": false
+      },
+      "179": {
+        "occupied": true
+      },
+      "180": {
+        "occupied": false
+      },
+      "181": {
+        "occupied": false
+      },
+      "182": {
+        "occupied": false
+      },
+      "183": {
+        "occupied": false
+      },
+      "184": {
+        "occupied": false
+      },
+      "185": {
+        "occupied": false
+      },
+      "186": {
+        "occupied": false
+      },
+      "187": {
+        "occupied": false
+      },
+      "188": {
+        "occupied": false
+      },
+      "189": {
+        "occupied": true
+      },
+      "190": {
+        "occupied": true
+      },
+      "191": {
+        "occupied": false
+      },
+      "192": {
+        "occupied": false
+      },
+      "193": {
+        "occupied": false
+      },
+      "194": {
+        "occupied": false
+      },
+      "195": {
+        "occupied": false
+      },
+      "196": {
+        "occupied": true
+      },
+      "197": {
+        "occupied": false
+      },
+      "198": {
+        "occupied": false
+      },
+      "199": {
+        "occupied": true
+      },
+      "200": {
+        "occupied": true
+      }
+    }
+  },
+  "2": {
+    "description": "15% занятость (раннее утро)",
+    "occupied_count": 30,
+    "total_spots": 200,
+    "occupancy_rate": 15.0,
+    "occupied_ids": [
+      1,
+      14,
+      25,
+      30,
+      53,
+      57,
+      58,
+      75,
+      85,
+      88,
+      91,
+      94,
+      116,
+      117,
+      122,
+      131,
+      141,
+      144,
+      154,
+      159,
+      163,
+      168,
+      169,
+      172,
+      183,
+      184,
+      193,
+      194,
+      195,
+      199
+    ],
+    "spots": {
+      "1": {
+        "occupied": true
+      },
+      "2": {
+        "occupied": false
+      },
+      "3": {
+        "occupied": false
+      },
+      "4": {
+        "occupied": false
+      },
+      "5": {
+        "occupied": false
+      },
+      "6": {
+        "occupied": false
+      },
+      "7": {
+        "occupied": false
+      },
+      "8": {
+        "occupied": false
+      },
+      "9": {
+        "occupied": false
+      },
+      "10": {
+        "occupied": false
+      },
+      "11": {
+        "occupied": false
+      },
+      "12": {
+        "occupied": false
+      },
+      "13": {
+        "occupied": false
+      },
+      "14": {
+        "occupied": true
+      },
+      "15": {
+        "occupied": false
+      },
+      "16": {
+        "occupied": false
+      },
+      "17": {
+        "occupied": false
+      },
+      "18": {
+        "occupied": false
+      },
+      "19": {
+        "occupied": false
+      },
+      "20": {
+        "occupied": false
+      },
+      "21": {
+        "occupied": false
+      },
+      "22": {
+        "occupied": false
+      },
+      "23": {
+        "occupied": false
+      },
+      "24": {
+        "occupied": false
+      },
+      "25": {
+        "occupied": true
+      },
+      "26": {
+        "occupied": false
+      },
+      "27": {
+        "occupied": false
+      },
+      "28": {
+        "occupied": false
+      },
+      "29": {
+        "occupied": false
+      },
+      "30": {
+        "occupied": true
+      },
+      "31": {
+        "occupied": false
+      },
+      "32": {
+        "occupied": false
+      },
+      "33": {
+        "occupied": false
+      },
+      "34": {
+        "occupied": false
+      },
+      "35": {
+        "occupied": false
+      },
+      "36": {
+        "occupied": false
+      },
+      "37": {
+        "occupied": false
+      },
+      "38": {
+        "occupied": false
+      },
+      "39": {
+        "occupied": false
+      },
+      "40": {
+        "occupied": false
+      },
+      "41": {
+        "occupied": false
+      },
+      "42": {
+        "occupied": false
+      },
+      "43": {
+        "occupied": false
+      },
+      "44": {
+        "occupied": false
+      },
+      "45": {
+        "occupied": false
+      },
+      "46": {
+        "occupied": false
+      },
+      "47": {
+        "occupied": false
+      },
+      "48": {
+        "occupied": false
+      },
+      "49": {
+        "occupied": false
+      },
+      "50": {
+        "occupied": false
+      },
+      "51": {
+        "occupied": false
+      },
+      "52": {
+        "occupied": false
+      },
+      "53": {
+        "occupied": true
+      },
+      "54": {
+        "occupied": false
+      },
+      "55": {
+        "occupied": false
+      },
+      "56": {
+        "occupied": false
+      },
+      "57": {
+        "occupied": true
+      },
+      "58": {
+        "occupied": true
+      },
+      "59": {
+        "occupied": false
+      },
+      "60": {
+        "occupied": false
+      },
+      "61": {
+        "occupied": false
+      },
+      "62": {
+        "occupied": false
+      },
+      "63": {
+        "occupied": false
+      },
+      "64": {
+        "occupied": false
+      },
+      "65": {
+        "occupied": false
+      },
+      "66": {
+        "occupied": false
+      },
+      "67": {
+        "occupied": false
+      },
+      "68": {
+        "occupied": false
+      },
+      "69": {
+        "occupied": false
+      },
+      "70": {
+        "occupied": false
+      },
+      "71": {
+        "occupied": false
+      },
+      "72": {
+        "occupied": false
+      },
+      "73": {
+        "occupied": false
+      },
+      "74": {
+        "occupied": false
+      },
+      "75": {
+        "occupied": true
+      },
+      "76": {
+        "occupied": false
+      },
+      "77": {
+        "occupied": false
+      },
+      "78": {
+        "occupied": false
+      },
+      "79": {
+        "occupied": false
+      },
+      "80": {
+        "occupied": false
+      },
+      "81": {
+        "occupied": false
+      },
+      "82": {
+        "occupied": false
+      },
+      "83": {
+        "occupied": false
+      },
+      "84": {
+        "occupied": false
+      },
+      "85": {
+        "occupied": true
+      },
+      "86": {
+        "occupied": false
+      },
+      "87": {
+        "occupied": false
+      },
+      "88": {
+        "occupied": true
+      },
+      "89": {
+        "occupied": false
+      },
+      "90": {
+        "occupied": false
+      },
+      "91": {
+        "occupied": true
+      },
+      "92": {
+        "occupied": false
+      },
+      "93": {
+        "occupied": false
+      },
+      "94": {
+        "occupied": true
+      },
+      "95": {
+        "occupied": false
+      },
+      "96": {
+        "occupied": false
+      },
+      "97": {
+        "occupied": false
+      },
+      "98": {
+        "occupied": false
+      },
+      "99": {
+        "occupied": false
+      },
+      "100": {
+        "occupied": false
+      },
+      "101": {
+        "occupied": false
+      },
+      "102": {
+        "occupied": false
+      },
+      "103": {
+        "occupied": false
+      },
+      "104": {
+        "occupied": false
+      },
+      "105": {
+        "occupied": false
+      },
+      "106": {
+        "occupied": false
+      },
+      "107": {
+        "occupied": false
+      },
+      "108": {
+        "occupied": false
+      },
+      "109": {
+        "occupied": false
+      },
+      "110": {
+        "occupied": false
+      },
+      "111": {
+        "occupied": false
+      },
+      "112": {
+        "occupied": false
+      },
+      "113": {
+        "occupied": false
+      },
+      "114": {
+        "occupied": false
+      },
+      "115": {
+        "occupied": false
+      },
+      "116": {
+        "occupied": true
+      },
+      "117": {
+        "occupied": true
+      },
+      "118": {
+        "occupied": false
+      },
+      "119": {
+        "occupied": false
+      },
+      "120": {
+        "occupied": false
+      },
+      "121": {
+        "occupied": false
+      },
+      "122": {
+        "occupied": true
+      },
+      "123": {
+        "occupied": false
+      },
+      "124": {
+        "occupied": false
+      },
+      "125": {
+        "occupied": false
+      },
+      "126": {
+        "occupied": false
+      },
+      "127": {
+        "occupied": false
+      },
+      "128": {
+        "occupied": false
+      },
+      "129": {
+        "occupied": false
+      },
+      "130": {
+        "occupied": false
+      },
+      "131": {
+        "occupied": true
+      },
+      "132": {
+        "occupied": false
+      },
+      "133": {
+        "occupied": false
+      },
+      "134": {
+        "occupied": false
+      },
+      "135": {
+        "occupied": false
+      },
+      "136": {
+        "occupied": false
+      },
+      "137": {
+        "occupied": false
+      },
+      "138": {
+        "occupied": false
+      },
+      "139": {
+        "occupied": false
+      },
+      "140": {
+        "occupied": false
+      },
+      "141": {
+        "occupied": true
+      },
+      "142": {
+        "occupied": false
+      },
+      "143": {
+        "occupied": false
+      },
+      "144": {
+        "occupied": true
+      },
+      "145": {
+        "occupied": false
+      },
+      "146": {
+        "occupied": false
+      },
+      "147": {
+        "occupied": false
+      },
+      "148": {
+        "occupied": false
+      },
+      "149": {
+        "occupied": false
+      },
+      "150": {
+        "occupied": false
+      },
+      "151": {
+        "occupied": false
+      },
+      "152": {
+        "occupied": false
+      },
+      "153": {
+        "occupied": false
+      },
+      "154": {
+        "occupied": true
+      },
+      "155": {
+        "occupied": false
+      },
+      "156": {
+        "occupied": false
+      },
+      "157": {
+        "occupied": false
+      },
+      "158": {
+        "occupied": false
+      },
+      "159": {
+        "occupied": true
+      },
+      "160": {
+        "occupied": false
+      },
+      "161": {
+        "occupied": false
+      },
+      "162": {
+        "occupied": false
+      },
+      "163": {
+        "occupied": true
+      },
+      "164": {
+        "occupied": false
+      },
+      "165": {
+        "occupied": false
+      },
+      "166": {
+        "occupied": false
+      },
+      "167": {
+        "occupied": false
+      },
+      "168": {
+        "occupied": true
+      },
+      "169": {
+        "occupied": true
+      },
+      "170": {
+        "occupied": false
+      },
+      "171": {
+        "occupied": false
+      },
+      "172": {
+        "occupied": true
+      },
+      "173": {
+        "occupied": false
+      },
+      "174": {
+        "occupied": false
+      },
+      "175": {
+        "occupied": false
+      },
+      "176": {
+        "occupied": false
+      },
+      "177": {
+        "occupied": false
+      },
+      "178": {
+        "occupied": false
+      },
+      "179": {
+        "occupied": false
+      },
+      "180": {
+        "occupied": false
+      },
+      "181": {
+        "occupied": false
+      },
+      "182": {
+        "occupied": false
+      },
+      "183": {
+        "occupied": true
+      },
+      "184": {
+        "occupied": true
+      },
+      "185": {
+        "occupied": false
+      },
+      "186": {
+        "occupied": false
+      },
+      "187": {
+        "occupied": false
+      },
+      "188": {
+        "occupied": false
+      },
+      "189": {
+        "occupied": false
+      },
+      "190": {
+        "occupied": false
+      },
+      "191": {
+        "occupied": false
+      },
+      "192": {
+        "occupied": false
+      },
+      "193": {
+        "occupied": true
+      },
+      "194": {
+        "occupied": true
+      },
+      "195": {
+        "occupied": true
+      },
+      "196": {
+        "occupied": false
+      },
+      "197": {
+        "occupied": false
+      },
+      "198": {
+        "occupied": false
+      },
+      "199": {
+        "occupied": true
+      },
+      "200": {
+        "occupied": false
+      }
+    }
+  },
+  "3": {
+    "description": "90% занятость (час пик)",
+    "occupied_count": 180,
+    "total_spots": 200,
+    "occupancy_rate": 90.0,
+    "occupied_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      39,
+      40,
+      41,
+      42,
+      43,
+      45,
+      46,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      62,
+      63,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      116,
+      117,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      143,
+      144,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      157,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      178,
+      179,
+      180,
+      181,
+      182,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    "spots": {
+      "1": {
+        "occupied": true
+      },
+      "2": {
+        "occupied": true
+      },
+      "3": {
+        "occupied": true
+      },
+      "4": {
+        "occupied": true
+      },
+      "5": {
+        "occupied": true
+      },
+      "6": {
+        "occupied": true
+      },
+      "7": {
+        "occupied": true
+      },
+      "8": {
+        "occupied": true
+      },
+      "9": {
+        "occupied": true
+      },
+      "10": {
+        "occupied": true
+      },
+      "11": {
+        "occupied": true
+      },
+      "12": {
+        "occupied": true
+      },
+      "13": {
+        "occupied": true
+      },
+      "14": {
+        "occupied": true
+      },
+      "15": {
+        "occupied": true
+      },
+      "16": {
+        "occupied": true
+      },
+      "17": {
+        "occupied": true
+      },
+      "18": {
+        "occupied": false
+      },
+      "19": {
+        "occupied": true
+      },
+      "20": {
+        "occupied": true
+      },
+      "21": {
+        "occupied": true
+      },
+      "22": {
+        "occupied": true
+      },
+      "23": {
+        "occupied": true
+      },
+      "24": {
+        "occupied": true
+      },
+      "25": {
+        "occupied": true
+      },
+      "26": {
+        "occupied": true
+      },
+      "27": {
+        "occupied": true
+      },
+      "28": {
+        "occupied": true
+      },
+      "29": {
+        "occupied": true
+      },
+      "30": {
+        "occupied": true
+      },
+      "31": {
+        "occupied": true
+      },
+      "32": {
+        "occupied": true
+      },
+      "33": {
+        "occupied": true
+      },
+      "34": {
+        "occupied": true
+      },
+      "35": {
+        "occupied": true
+      },
+      "36": {
+        "occupied": true
+      },
+      "37": {
+        "occupied": true
+      },
+      "38": {
+        "occupied": false
+      },
+      "39": {
+        "occupied": true
+      },
+      "40": {
+        "occupied": true
+      },
+      "41": {
+        "occupied": true
+      },
+      "42": {
+        "occupied": true
+      },
+      "43": {
+        "occupied": true
+      },
+      "44": {
+        "occupied": false
+      },
+      "45": {
+        "occupied": true
+      },
+      "46": {
+        "occupied": true
+      },
+      "47": {
+        "occupied": true
+      },
+      "48": {
+        "occupied": true
+      },
+      "49": {
+        "occupied": false
+      },
+      "50": {
+        "occupied": true
+      },
+      "51": {
+        "occupied": true
+      },
+      "52": {
+        "occupied": true
+      },
+      "53": {
+        "occupied": true
+      },
+      "54": {
+        "occupied": true
+      },
+      "55": {
+        "occupied": true
+      },
+      "56": {
+        "occupied": true
+      },
+      "57": {
+        "occupied": true
+      },
+      "58": {
+        "occupied": false
+      },
+      "59": {
+        "occupied": true
+      },
+      "60": {
+        "occupied": true
+      },
+      "61": {
+        "occupied": true
+      },
+      "62": {
+        "occupied": true
+      },
+      "63": {
+        "occupied": true
+      },
+      "64": {
+        "occupied": false
+      },
+      "65": {
+        "occupied": true
+      },
+      "66": {
+        "occupied": true
+      },
+      "67": {
+        "occupied": true
+      },
+      "68": {
+        "occupied": true
+      },
+      "69": {
+        "occupied": true
+      },
+      "70": {
+        "occupied": true
+      },
+      "71": {
+        "occupied": true
+      },
+      "72": {
+        "occupied": true
+      },
+      "73": {
+        "occupied": true
+      },
+      "74": {
+        "occupied": true
+      },
+      "75": {
+        "occupied": true
+      },
+      "76": {
+        "occupied": true
+      },
+      "77": {
+        "occupied": true
+      },
+      "78": {
+        "occupied": true
+      },
+      "79": {
+        "occupied": true
+      },
+      "80": {
+        "occupied": true
+      },
+      "81": {
+        "occupied": true
+      },
+      "82": {
+        "occupied": true
+      },
+      "83": {
+        "occupied": true
+      },
+      "84": {
+        "occupied": true
+      },
+      "85": {
+        "occupied": true
+      },
+      "86": {
+        "occupied": true
+      },
+      "87": {
+        "occupied": false
+      },
+      "88": {
+        "occupied": true
+      },
+      "89": {
+        "occupied": true
+      },
+      "90": {
+        "occupied": true
+      },
+      "91": {
+        "occupied": true
+      },
+      "92": {
+        "occupied": true
+      },
+      "93": {
+        "occupied": true
+      },
+      "94": {
+        "occupied": true
+      },
+      "95": {
+        "occupied": true
+      },
+      "96": {
+        "occupied": true
+      },
+      "97": {
+        "occupied": true
+      },
+      "98": {
+        "occupied": true
+      },
+      "99": {
+        "occupied": true
+      },
+      "100": {
+        "occupied": true
+      },
+      "101": {
+        "occupied": true
+      },
+      "102": {
+        "occupied": true
+      },
+      "103": {
+        "occupied": false
+      },
+      "104": {
+        "occupied": true
+      },
+      "105": {
+        "occupied": true
+      },
+      "106": {
+        "occupied": true
+      },
+      "107": {
+        "occupied": true
+      },
+      "108": {
+        "occupied": true
+      },
+      "109": {
+        "occupied": true
+      },
+      "110": {
+        "occupied": true
+      },
+      "111": {
+        "occupied": true
+      },
+      "112": {
+        "occupied": true
+      },
+      "113": {
+        "occupied": true
+      },
+      "114": {
+        "occupied": true
+      },
+      "115": {
+        "occupied": false
+      },
+      "116": {
+        "occupied": true
+      },
+      "117": {
+        "occupied": true
+      },
+      "118": {
+        "occupied": false
+      },
+      "119": {
+        "occupied": true
+      },
+      "120": {
+        "occupied": true
+      },
+      "121": {
+        "occupied": true
+      },
+      "122": {
+        "occupied": true
+      },
+      "123": {
+        "occupied": true
+      },
+      "124": {
+        "occupied": true
+      },
+      "125": {
+        "occupied": true
+      },
+      "126": {
+        "occupied": true
+      },
+      "127": {
+        "occupied": true
+      },
+      "128": {
+        "occupied": true
+      },
+      "129": {
+        "occupied": true
+      },
+      "130": {
+        "occupied": true
+      },
+      "131": {
+        "occupied": true
+      },
+      "132": {
+        "occupied": true
+      },
+      "133": {
+        "occupied": false
+      },
+      "134": {
+        "occupied": true
+      },
+      "135": {
+        "occupied": true
+      },
+      "136": {
+        "occupied": true
+      },
+      "137": {
+        "occupied": true
+      },
+      "138": {
+        "occupied": true
+      },
+      "139": {
+        "occupied": true
+      },
+      "140": {
+        "occupied": true
+      },
+      "141": {
+        "occupied": true
+      },
+      "142": {
+        "occupied": false
+      },
+      "143": {
+        "occupied": true
+      },
+      "144": {
+        "occupied": true
+      },
+      "145": {
+        "occupied": false
+      },
+      "146": {
+        "occupied": false
+      },
+      "147": {
+        "occupied": true
+      },
+      "148": {
+        "occupied": true
+      },
+      "149": {
+        "occupied": true
+      },
+      "150": {
+        "occupied": true
+      },
+      "151": {
+        "occupied": true
+      },
+      "152": {
+        "occupied": true
+      },
+      "153": {
+        "occupied": true
+      },
+      "154": {
+        "occupied": true
+      },
+      "155": {
+        "occupied": true
+      },
+      "156": {
+        "occupied": false
+      },
+      "157": {
+        "occupied": true
+      },
+      "158": {
+        "occupied": false
+      },
+      "159": {
+        "occupied": true
+      },
+      "160": {
+        "occupied": true
+      },
+      "161": {
+        "occupied": true
+      },
+      "162": {
+        "occupied": true
+      },
+      "163": {
+        "occupied": true
+      },
+      "164": {
+        "occupied": true
+      },
+      "165": {
+        "occupied": true
+      },
+      "166": {
+        "occupied": true
+      },
+      "167": {
+        "occupied": true
+      },
+      "168": {
+        "occupied": true
+      },
+      "169": {
+        "occupied": true
+      },
+      "170": {
+        "occupied": false
+      },
+      "171": {
+        "occupied": true
+      },
+      "172": {
+        "occupied": true
+      },
+      "173": {
+        "occupied": true
+      },
+      "174": {
+        "occupied": true
+      },
+      "175": {
+        "occupied": true
+      },
+      "176": {
+        "occupied": true
+      },
+      "177": {
+        "occupied": false
+      },
+      "178": {
+        "occupied": true
+      },
+      "179": {
+        "occupied": true
+      },
+      "180": {
+        "occupied": true
+      },
+      "181": {
+        "occupied": true
+      },
+      "182": {
+        "occupied": true
+      },
+      "183": {
+        "occupied": false
+      },
+      "184": {
+        "occupied": true
+      },
+      "185": {
+        "occupied": true
+      },
+      "186": {
+        "occupied": true
+      },
+      "187": {
+        "occupied": true
+      },
+      "188": {
+        "occupied": true
+      },
+      "189": {
+        "occupied": true
+      },
+      "190": {
+        "occupied": false
+      },
+      "191": {
+        "occupied": true
+      },
+      "192": {
+        "occupied": true
+      },
+      "193": {
+        "occupied": true
+      },
+      "194": {
+        "occupied": true
+      },
+      "195": {
+        "occupied": true
+      },
+      "196": {
+        "occupied": true
+      },
+      "197": {
+        "occupied": true
+      },
+      "198": {
+        "occupied": true
+      },
+      "199": {
+        "occupied": true
+      },
+      "200": {
+        "occupied": true
+      }
+    }
+  }
+}

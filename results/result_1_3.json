@@ -1,0 +1,615 @@
+{
+  "params": {
+    "park_idx": 1,
+    "calibrate_idx": "multi",
+    "cameras": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "strategy": "weighted_avg"
+  },
+  "result": {
+    "1": {
+      "detected": false
+    },
+    "2": {
+      "detected": false
+    },
+    "3": {
+      "detected": false
+    },
+    "4": {
+      "detected": false
+    },
+    "5": {
+      "detected": false
+    },
+    "6": {
+      "detected": false
+    },
+    "7": {
+      "detected": false
+    },
+    "8": {
+      "detected": false
+    },
+    "9": {
+      "detected": false
+    },
+    "10": {
+      "detected": false
+    },
+    "11": {
+      "detected": false
+    },
+    "12": {
+      "detected": false
+    },
+    "13": {
+      "detected": false
+    },
+    "14": {
+      "detected": false
+    },
+    "15": {
+      "detected": false
+    },
+    "16": {
+      "detected": false
+    },
+    "17": {
+      "detected": false
+    },
+    "18": {
+      "detected": false
+    },
+    "19": {
+      "detected": false
+    },
+    "20": {
+      "detected": false
+    },
+    "21": {
+      "detected": true
+    },
+    "22": {
+      "detected": true
+    },
+    "23": {
+      "detected": true
+    },
+    "24": {
+      "detected": true
+    },
+    "25": {
+      "detected": true
+    },
+    "26": {
+      "detected": true
+    },
+    "27": {
+      "detected": true
+    },
+    "28": {
+      "detected": true
+    },
+    "29": {
+      "detected": true
+    },
+    "30": {
+      "detected": true
+    },
+    "31": {
+      "detected": true
+    },
+    "32": {
+      "detected": true
+    },
+    "33": {
+      "detected": true
+    },
+    "34": {
+      "detected": true
+    },
+    "35": {
+      "detected": true
+    },
+    "36": {
+      "detected": true
+    },
+    "37": {
+      "detected": true
+    },
+    "38": {
+      "detected": false
+    },
+    "39": {
+      "detected": true
+    },
+    "40": {
+      "detected": true
+    },
+    "41": {
+      "detected": true
+    },
+    "42": {
+      "detected": true
+    },
+    "43": {
+      "detected": true
+    },
+    "44": {
+      "detected": false
+    },
+    "45": {
+      "detected": true
+    },
+    "46": {
+      "detected": true
+    },
+    "47": {
+      "detected": true
+    },
+    "48": {
+      "detected": true
+    },
+    "49": {
+      "detected": false
+    },
+    "50": {
+      "detected": true
+    },
+    "51": {
+      "detected": true
+    },
+    "52": {
+      "detected": true
+    },
+    "53": {
+      "detected": true
+    },
+    "54": {
+      "detected": true
+    },
+    "55": {
+      "detected": true
+    },
+    "56": {
+      "detected": true
+    },
+    "57": {
+      "detected": true
+    },
+    "58": {
+      "detected": false
+    },
+    "59": {
+      "detected": true
+    },
+    "60": {
+      "detected": true
+    },
+    "61": {
+      "detected": true
+    },
+    "62": {
+      "detected": true
+    },
+    "63": {
+      "detected": true
+    },
+    "64": {
+      "detected": false
+    },
+    "65": {
+      "detected": true
+    },
+    "66": {
+      "detected": true
+    },
+    "67": {
+      "detected": true
+    },
+    "68": {
+      "detected": true
+    },
+    "69": {
+      "detected": true
+    },
+    "70": {
+      "detected": true
+    },
+    "71": {
+      "detected": true
+    },
+    "72": {
+      "detected": true
+    },
+    "73": {
+      "detected": true
+    },
+    "74": {
+      "detected": true
+    },
+    "75": {
+      "detected": true
+    },
+    "76": {
+      "detected": true
+    },
+    "77": {
+      "detected": true
+    },
+    "78": {
+      "detected": true
+    },
+    "79": {
+      "detected": true
+    },
+    "80": {
+      "detected": true
+    },
+    "81": {
+      "detected": true
+    },
+    "82": {
+      "detected": true
+    },
+    "83": {
+      "detected": true
+    },
+    "84": {
+      "detected": true
+    },
+    "85": {
+      "detected": true
+    },
+    "86": {
+      "detected": true
+    },
+    "87": {
+      "detected": false
+    },
+    "88": {
+      "detected": true
+    },
+    "89": {
+      "detected": true
+    },
+    "90": {
+      "detected": true
+    },
+    "91": {
+      "detected": true
+    },
+    "92": {
+      "detected": true
+    },
+    "93": {
+      "detected": true
+    },
+    "94": {
+      "detected": true
+    },
+    "95": {
+      "detected": true
+    },
+    "96": {
+      "detected": true
+    },
+    "97": {
+      "detected": true
+    },
+    "98": {
+      "detected": true
+    },
+    "99": {
+      "detected": true
+    },
+    "100": {
+      "detected": true
+    },
+    "101": {
+      "detected": true
+    },
+    "102": {
+      "detected": true
+    },
+    "103": {
+      "detected": false
+    },
+    "104": {
+      "detected": true
+    },
+    "105": {
+      "detected": true
+    },
+    "106": {
+      "detected": true
+    },
+    "107": {
+      "detected": true
+    },
+    "108": {
+      "detected": true
+    },
+    "109": {
+      "detected": true
+    },
+    "110": {
+      "detected": true
+    },
+    "111": {
+      "detected": true
+    },
+    "112": {
+      "detected": true
+    },
+    "113": {
+      "detected": true
+    },
+    "114": {
+      "detected": true
+    },
+    "115": {
+      "detected": false
+    },
+    "116": {
+      "detected": true
+    },
+    "117": {
+      "detected": true
+    },
+    "118": {
+      "detected": false
+    },
+    "119": {
+      "detected": true
+    },
+    "120": {
+      "detected": true
+    },
+    "121": {
+      "detected": true
+    },
+    "122": {
+      "detected": true
+    },
+    "123": {
+      "detected": true
+    },
+    "124": {
+      "detected": true
+    },
+    "125": {
+      "detected": true
+    },
+    "126": {
+      "detected": true
+    },
+    "127": {
+      "detected": true
+    },
+    "128": {
+      "detected": true
+    },
+    "129": {
+      "detected": true
+    },
+    "130": {
+      "detected": true
+    },
+    "131": {
+      "detected": true
+    },
+    "132": {
+      "detected": true
+    },
+    "133": {
+      "detected": false
+    },
+    "134": {
+      "detected": true
+    },
+    "135": {
+      "detected": true
+    },
+    "136": {
+      "detected": true
+    },
+    "137": {
+      "detected": true
+    },
+    "138": {
+      "detected": true
+    },
+    "139": {
+      "detected": true
+    },
+    "140": {
+      "detected": true
+    },
+    "141": {
+      "detected": true
+    },
+    "142": {
+      "detected": false
+    },
+    "143": {
+      "detected": true
+    },
+    "144": {
+      "detected": true
+    },
+    "145": {
+      "detected": false
+    },
+    "146": {
+      "detected": false
+    },
+    "147": {
+      "detected": true
+    },
+    "148": {
+      "detected": true
+    },
+    "149": {
+      "detected": true
+    },
+    "150": {
+      "detected": true
+    },
+    "151": {
+      "detected": true
+    },
+    "152": {
+      "detected": false
+    },
+    "153": {
+      "detected": true
+    },
+    "154": {
+      "detected": true
+    },
+    "155": {
+      "detected": true
+    },
+    "156": {
+      "detected": false
+    },
+    "157": {
+      "detected": true
+    },
+    "158": {
+      "detected": false
+    },
+    "159": {
+      "detected": true
+    },
+    "160": {
+      "detected": true
+    },
+    "161": {
+      "detected": true
+    },
+    "162": {
+      "detected": true
+    },
+    "163": {
+      "detected": true
+    },
+    "164": {
+      "detected": true
+    },
+    "165": {
+      "detected": true
+    },
+    "166": {
+      "detected": true
+    },
+    "167": {
+      "detected": true
+    },
+    "168": {
+      "detected": true
+    },
+    "169": {
+      "detected": true
+    },
+    "170": {
+      "detected": false
+    },
+    "171": {
+      "detected": true
+    },
+    "172": {
+      "detected": true
+    },
+    "173": {
+      "detected": true
+    },
+    "174": {
+      "detected": true
+    },
+    "175": {
+      "detected": true
+    },
+    "176": {
+      "detected": true
+    },
+    "177": {
+      "detected": false
+    },
+    "178": {
+      "detected": true
+    },
+    "179": {
+      "detected": true
+    },
+    "180": {
+      "detected": true
+    },
+    "181": {
+      "detected": true
+    },
+    "182": {
+      "detected": true
+    },
+    "183": {
+      "detected": false
+    },
+    "184": {
+      "detected": true
+    },
+    "185": {
+      "detected": true
+    },
+    "186": {
+      "detected": true
+    },
+    "187": {
+      "detected": true
+    },
+    "188": {
+      "detected": true
+    },
+    "189": {
+      "detected": true
+    },
+    "190": {
+      "detected": false
+    },
+    "191": {
+      "detected": false
+    },
+    "192": {
+      "detected": false
+    },
+    "193": {
+      "detected": false
+    },
+    "194": {
+      "detected": false
+    },
+    "195": {
+      "detected": false
+    },
+    "196": {
+      "detected": false
+    },
+    "197": {
+      "detected": false
+    },
+    "198": {
+      "detected": false
+    },
+    "199": {
+      "detected": false
+    },
+    "200": {
+      "detected": false
+    }
+  }
+}

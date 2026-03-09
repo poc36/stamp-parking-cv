@@ -1,0 +1,1449 @@
+{
+  "params": {
+    "park_idx": 1,
+    "test_idx": 1,
+    "camera_idx": 1,
+    "camera_name": "Камера 1 (северо-запад)",
+    "mode": "hybrid",
+    "processing_time_ms": {
+      "calibration": 7,
+      "detection": 5254
+    }
+  },
+  "summary": {
+    "total_spots": 200,
+    "in_work_zone": 54,
+    "occupied": 27,
+    "free": 27,
+    "occupancy_rate": 50.0
+  },
+  "spots": {
+    "1": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "2": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "3": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "4": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "5": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "6": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "7": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "8": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "9": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "10": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "11": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "12": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "13": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "14": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "15": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "16": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "17": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "18": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "19": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "20": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "27": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "28": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "29": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "30": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "37": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "38": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "39": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "40": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "47": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "48": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "49": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "50": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "57": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "58": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "59": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "60": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "67": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "68": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "69": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "70": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "77": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "78": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "79": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "80": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "87": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "88": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "89": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "90": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "97": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "98": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "99": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "100": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "107": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "108": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "109": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "110": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "111": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "112": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "113": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "114": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "115": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "116": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "117": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "118": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "119": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "120": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "121": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "122": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "123": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "124": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "125": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "126": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "127": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "128": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "129": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "130": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "131": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "132": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "133": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "134": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "135": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "136": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "137": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "138": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "139": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "140": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "141": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "142": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "143": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "144": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "145": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "146": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "147": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "148": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "149": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "150": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "151": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "152": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "153": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "154": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "155": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "156": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "157": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "158": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "159": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "160": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "161": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "162": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "163": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "164": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "165": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "166": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "167": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "168": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "169": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "170": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "171": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "172": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "173": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "174": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "175": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "176": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "177": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "178": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "179": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "180": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "181": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "182": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "183": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "184": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "185": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "186": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "187": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "188": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "189": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "190": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "191": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "192": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "193": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "194": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "195": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "196": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "197": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "198": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "199": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "200": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "method": "out_of_zone",
+      "in_work_zone": false
+    },
+    "21": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "22": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "23": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "24": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "25": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "26": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "31": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "32": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "33": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "34": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "35": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "36": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "41": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "42": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "43": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "44": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "45": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "46": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "51": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "52": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "53": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "54": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "55": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "56": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "61": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "62": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "63": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "64": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "65": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "66": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "71": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "72": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "73": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "74": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "75": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "76": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "81": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "82": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "83": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "84": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "85": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "86": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "91": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "92": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "93": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "94": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "95": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "96": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "101": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "102": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "103": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    },
+    "104": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "105": {
+      "detected": false,
+      "confidence": 0.0,
+      "iou": 0.0,
+      "occupancy_pct": 0,
+      "method": "yolo",
+      "in_work_zone": true
+    },
+    "106": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "method": "hybrid_feature",
+      "in_work_zone": true
+    }
+  }
+}

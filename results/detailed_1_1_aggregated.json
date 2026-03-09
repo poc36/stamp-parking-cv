@@ -1,0 +1,2874 @@
+{
+  "params": {
+    "park_idx": 1,
+    "test_idx": 1,
+    "mode": "hybrid",
+    "strategy": "weighted_avg",
+    "cameras": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "summary": {
+    "total_spots": 200,
+    "covered_by_cameras": 170,
+    "multi_camera_coverage": 42,
+    "occupied": 95,
+    "free": 105,
+    "occupancy_rate": 47.5
+  },
+  "spots": {
+    "1": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "2": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "3": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "4": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "5": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "6": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "7": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "8": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "9": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "10": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "11": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "12": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "13": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "14": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "15": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "16": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "17": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "18": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "19": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "20": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "21": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "22": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "23": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "24": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "25": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "26": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "27": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "28": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "29": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "30": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "31": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "32": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "33": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "34": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "35": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "36": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "37": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "38": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "39": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "40": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "41": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "42": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "43": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "44": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "45": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "46": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "47": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "48": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "49": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "50": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "51": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "52": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "53": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "54": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "55": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "56": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "57": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "58": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "59": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "60": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "61": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "62": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "63": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "64": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "65": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "66": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "67": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "68": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "69": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "70": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "71": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "72": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "73": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "74": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "75": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "76": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "77": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "78": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "79": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "80": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "81": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "82": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "83": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "84": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "85": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "86": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "87": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "88": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "89": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "90": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "91": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "92": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "93": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "94": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "95": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "96": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "97": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "98": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "99": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "100": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "101": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "102": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "103": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "104": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "105": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 4,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "106": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 4,
+      "sources": [
+        {
+          "camera": 1,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "107": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "108": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "109": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "110": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 2,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "111": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "112": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "113": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "114": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "115": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "116": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "117": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "118": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "119": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "120": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "121": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "122": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "123": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "124": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "125": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "126": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "127": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "128": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "129": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "130": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "131": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "132": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "133": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "134": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "135": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "136": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "137": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "138": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "139": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "140": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "141": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "142": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "143": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "144": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "145": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "146": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "147": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "148": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "149": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "150": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "151": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "152": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "153": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "154": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "155": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "156": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "157": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "158": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "159": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "160": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "161": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "162": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "163": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "164": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "165": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "166": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "167": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "168": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "169": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "170": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "171": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "172": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "173": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "174": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "175": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "176": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": true,
+          "confidence": 1.0
+        },
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "177": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "178": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "179": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "180": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "181": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "182": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "183": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "184": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "185": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "186": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 2,
+      "sources": [
+        {
+          "camera": 3,
+          "detected": false,
+          "confidence": 0.0
+        },
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "187": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "188": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": false,
+          "confidence": 0.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "189": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "190": {
+      "detected": true,
+      "confidence": 1.0,
+      "occupancy_pct": 100,
+      "num_cameras": 1,
+      "sources": [
+        {
+          "camera": 4,
+          "detected": true,
+          "confidence": 1.0
+        }
+      ],
+      "method": "aggregated_weighted_avg"
+    },
+    "191": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "192": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "193": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "194": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "195": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "196": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "197": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "198": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "199": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    },
+    "200": {
+      "detected": false,
+      "confidence": 0.0,
+      "occupancy_pct": 0,
+      "num_cameras": 0,
+      "sources": [],
+      "method": "no_coverage"
+    }
+  }
+}
